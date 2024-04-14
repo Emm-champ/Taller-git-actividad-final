@@ -1,1 +1,3 @@
-Funcion para sumar y restar
+Funcion para sumar
+
+Funcion para restar
